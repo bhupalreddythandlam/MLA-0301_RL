@@ -1,5 +1,0 @@
-Agent: adaptive traffic signal controller
-Environment: four-approach intersection
-State: queue categories and active phase
-Actions: choose phase / extend green
-Reward: negative weighted waiting time and queue length
