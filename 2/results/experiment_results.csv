@@ -1,0 +1,4 @@
+algorithm,path_reward,path_steps,reached_goal,average_training_reward_last_100,training_success_rate_last_100
+Value Iteration,93.0,8,True,,
+SARSA,93.0,8,True,92.02,1.0
+Q-Learning,93.0,8,True,91.92,1.0
